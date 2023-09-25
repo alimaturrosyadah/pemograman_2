@@ -65,7 +65,7 @@ header {
   height: 65px;
   width: 100%;
   background: rgba(34, 49,52, 0.9);
-  transition: all 0.5s;
+  transition: all 0.3s;
 }
 
 .logo {
@@ -85,6 +85,14 @@ header {
 
 .header-right:hover {
   background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+  line-height: 65px;
+  padding-left: 25px;
+  pading-right: 25px;
+  color: white;
+  display: block;
 }
 
 .btn-wrapper {
