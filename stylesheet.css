@@ -88,7 +88,7 @@ header {
 }
 
 .header-right a {
-  line-height: 65px;
+  line-height: 0 65px;
   padding-left: 0 25px;
   pading-right: 0 25px;
   color: white;
